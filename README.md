@@ -1,6 +1,8 @@
 # Lab2
 The second lab handout for the OS course. The topic of this lab would be threads!
 
+The lab is available in a pdf version here(https://github.com/alexu-os/Lab2/blob/main/Lab_2_-_pthreads.pdf)
+
 
 ## Threading model in Ubuntu
 
