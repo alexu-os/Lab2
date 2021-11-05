@@ -68,4 +68,4 @@ When to use Multi-threading:
 
 Other than those reasons (and similar ones) its not a good idea to use multi-threading.
 
-[Assignment 2 - pthreads](https://www.notion.so/Assignment-2-pthreads-7d97bcf86ef04b25ac997a2d9c8d4fae)
+[Assignment 2 - pthreads](https://github.com/alexu-os/Assignment2)
